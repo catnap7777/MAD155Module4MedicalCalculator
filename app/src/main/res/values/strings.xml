@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAD155Module4MedicalCalculator</string>
+
+    <string name="txtTitle">Convert Patient Weight</string>
+    <string name="hint">Weight of Patient</string>
+    <string name="rbPoundToKilo">Convert Pounds to Kilograms</string>
+    <string name="rbKiloToPound">Convert Kilograms to Pounds</string>
+    <string name="btnConvert">Convert Weight</string>
+
+</resources>
